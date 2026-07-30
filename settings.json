@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "SoloPlayz"
+      "password": "Happy"
     },
     "anti-afk": {
       "enabled": true,
@@ -32,8 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to veer channel!",
-        "Want Cheap Premium MC Server? https://discord.gg/VRMUnDkf95"
+        "Welcome To This server!",
       ]
     },
     "chat-log": true,
